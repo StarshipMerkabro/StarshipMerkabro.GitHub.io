@@ -7,7 +7,7 @@ alt: image-alt
 project-date: 2023
 client: Start Bootstrap
 category: Web Development
-description:    Starship Merkabro: A Virtual Space Ship/Ark of Art, Music, and Healing in the Metaverse, Universe or Anyverse.
+description: Starship Merkabro: A Virtual Space Ship/Ark of Art, Music, and Healing in the Metaverse, Universe or Anyverse.
 
 Peace and Sonic Greetings Great People of the Universe. 
 
