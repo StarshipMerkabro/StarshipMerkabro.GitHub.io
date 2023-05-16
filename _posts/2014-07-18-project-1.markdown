@@ -5,8 +5,8 @@ date: Now
 img: cabin.png
 alt: image-alt
 project-date: 2023
-client: Start Bootstrap
-category: Web Development
+client: The Boundless Universes
+category: NFT Project
 description: Starship Merkabro: A Virtual Space Ship/Ark of Art, Music, and Healing in the Metaverse, Universe or Anyverse.
 
 Peace and Sonic Greetings Great People of the Universe. 
