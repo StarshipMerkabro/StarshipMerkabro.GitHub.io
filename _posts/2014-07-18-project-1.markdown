@@ -1,11 +1,47 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: Now
 img: cabin.png
 alt: image-alt
-project-date: April 2014
+project-date: 2023
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description:    Starship Merkabro: A Virtual Space Ship/Ark of Art, Music, and Healing in the Metaverse, Universe or Anyverse.
+
+Peace and Sonic Greetings Great People of the Universe. 
+
+My name is Shakem Merkabro and I AM building a Starship. The Starship is for cyberspace, the meta verse, the universe or any verse. If/When this becomes a physical starship the blockchain will show us it all started right here with you reading this.
+Starship Merkabro is a NFT project that aims to create a dynamic and immersive Space Ship/Virtual environment where art, music, healing/alignment, and community converge in web3 and the blockchain. The project features a Great Expansive Digital Art Museum on the first floor of the virtual ship showcasing a diverse collection of art, digital art , music from featured artists or exhibits.The virtual space ship also features various virtual rooms and atmospheres for meditation, mantra, and sonic healing, as well as a virtual event space for concerts, parties, and conferences.
+144 unique Art NFTs will complete the initial phase of collection associated with this project, each with its own sonic signature that will be used for access to the Star Ship and exclusive benefits. Starship Merkabro aims to create a vibrant and interactive community of creatives, artists, healers, and supporters in the web3 environment and beyond.
+Introduction:
+Starship Merkabro is a NFT project that will explore and materialize the concept of a virtual space within space by creating a dynamic and immersive virtual environment where art, music, healing, and community-building converge. The project aims to provide NFT holders with a unique and interactive experience within the metaverse, fostering a vibrant community of creatives, artists, healers, and enthusiasts. The following outlines the vision, features, benefits, and roadmap of Starship Merkabro.
+Vision:
+The vision of Starship Merkabro is to create a virtual ark of creativity, art, music, healing, learning, and alignment that transcends traditional boundaries and fosters a dynamic and interactive community within the ‘metaverse’ and greater universe. The project aims to provide a platform for renowned and emerging artists to showcase their digital art. The Starship Merkabro also is a place for
+  
+ visitors to immerse themselves into plush virtual environments for meditation, mantra, and sonic healing. The virtual spaceship also includes an Event space to host virtual events such as concerts, parties, and conferences. These will be able to be accessed through web3 platforms which also includes mobile, occulus and other VR/AR technology
+NFT holders of Starship Merkabro will enjoy exclusive benefits and opportunities to participate in the project's ecosystem by way of private discord. NFT holders will also have Free entry to all virtual rooms, live events and museum exhibitions we plan to have annually once the starship launches. This will bridge the virtual world with the physical world. NFT holders will also receive a portion of proceeds from these said events. The project also aims to create a marketplace for renting out virtual rooms and event spaces while also offering virtual atmospheres and environments for ownership.
+ART
+Let me not forget my favorite part besides the utility of the project which is The Artwork that comes with this NFT. The artwork is what I call Sonic Art which is a original digital artwork with a Sonic rendition of it which I like to call a Sonic signature. The Sonic signature includes frequencies and sounds unique to the particular artwork. The Sonic signature portion of the art will act as a access card or Sonic password to access certain aspects and benefits of the project. On top of that the artwork can be displayed in frames, digital frames, merchandise or whatever creative use you may have with this digital Art.
+Sounds and Atmospheres
+With the Starship Merkabro project there will be a large library of sounds, sound effects and specialized atmospheres created and stored in the form of NFTs these will be used within the starship Merkabro ecosystem and some beyond as the web3 and the meta verse continues to expand. These sounds will be tokenized and available for sale and staking so that the NFT owner may generate rewards as these are used.
+Starship Merkabro Features:
+1. Great Expansive Digital Art Museum: The first floor of Starship Merkabro will feature a Great Expansive Digital Art Museum, showcasing a diverse collection of digital art from my collection, featured digital artists and whatever exhibit we may be displaying at the time.The museum will provide
+
+ a unique and immersive experience for visitors to explore and appreciate
+digital art in a virtual environment.
+2. Virtual Rooms for Meditation, Mantra, and Sonic Healing: Starship
+Merkabro will feature various virtual rooms designed for meditation, mantra, and sonic healing. Visitors can immerse themselves in these virtual environments and experience the benefits of these practices in a unique and interactive way.The virtual rooms for meditation, mantra, and sonic healing within Starship Merkabro provide a unique and accessible way for individuals to engage in healing practices in a virtual environment. This can have positive impacts on mental, emotional, and physical well-being, providing a valuable resource for individuals seeking healing and alignment.
+3. Virtual Event Space: Starship Merkabro will have a virtual event space that can host virtual concerts, parties, conferences, and other events. This creates a dynamic and interactive social experience within the metaverse and beyond, allowing visitors to participate in virtual events and connect with like-minded individuals from around the world.
+4. Virtual Game Room: Starship Merkabro will also have rooms for various games and also .web3 based games as well to partake in.
+5. NFT Holder Opportunities: NFT holders of the Starship Merkabro Project
+will have opportunities to participate in the project's ecosystem. Each Star a ship Merkabro NFT passively yields a return while in wallet.NFT holders can generate rewards as non-NFT holders rent out virtual rooms,atmospheres and event spaces within the Starship Merkabro Virtual Star Ship. They will also have vip access and entry to any live events and museum exhibits, while receiving a portion of the proceeds from events opened to non-NFT holders. Once the first wave of NFTs are sold, some Virtual atmospheres and rooms will be auctioned ,sold and rented to provide NFT holders with unique opportunities for ownership, investment, and participation in the project's ecosystem growth and value.
+6. Universal Community Building: Starship Merkabro aims to foster a vibrant community of creatives, artists, healers, and enthusiasts from around the world, creating connections, collaborations, and opportunities for growth within web3 blockchain and beyond. Through virtual events, exclusive benefits for NFT holders, and opportunities for participation and ownership, the project aims to create a strong and engaged community that supports and uplifts each other. There will be a private discord for NFT holders where we can curate a community based on the love and growth of these great things we speak of. Also to have decntralized ‘central’ location to talk about
+
+ all things Starship Merkabro. The virtual events, private Discord access, and NFT holder benefits promote community building providing a supportive and inclusive space for individuals interested in art, music, and healing.
+7. Art and Sonic Signatures: Each of the 144 unique NFTs associated with Starship Merkabro will have its own sonic signature. This adds an interactive and immersive element to the project, allowing NFT holders to experience art and music in a multisensory way.
+8. Immersive and Interactive Experience: Starship Merkabro provides a unique and immersive experience for visitors to explore and appreciate digital art, music, and healing practices in a virtual environment through web3, blockchain, VR/AR technologies. NFT holders can actively participate in the project's ecosystem, attend virtual events, and engage with the community, creating a dynamic and interactive experience.
+9. Opportunities for Creatives: Starship Merkabro provides a platform for artists to showcase their digital art and connect with a global audience. NFT holders can also generate a reward as virtual rooms and event spaces are rented out and utilized providing unique opportunities for ownership, investment, and participation in the project's growth.
+10. As the Starship Merkabro collection grows a large collection of Sonic signatures, sound effects, unique sounds, atmospheric sounds etc. will be generated and collected. As Starship Merkabro and web3 continue to grow and expand the value of these virtual assets can be leveraged as the will be forever stored in the blockchain.
+
 ---
