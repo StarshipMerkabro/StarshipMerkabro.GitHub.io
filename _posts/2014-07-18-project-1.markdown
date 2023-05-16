@@ -4,7 +4,7 @@ modal-id: 1
 date: 2022-05-24
 img: cabin.png
 alt: image-alt
-project-date: 
+project-date: May 2023
 client: The Boundless Universes :
 category: platform development
 description: Starship Merkabro - A Virtual Space Ship/Ark of Art, Music, and Healing in the Metaverse, Universe or Anyverse
