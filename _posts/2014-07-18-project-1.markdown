@@ -1,14 +1,15 @@
---- 
+---
 layout: default
 modal-id: 1
 date: 2022-05-24
 img: cabin.png
 alt: image-alt
 project-date: May 2023
-client: The Boundless Universes 
+client: The Boundless Universes
 category: platform development
 description: Starship Merkabro - A Virtual Space Ship/Ark of Art, Music, and Healing in the Metaverse, Universe or Anyverse
-:
+---
+
 Peace and Sonic Greetings Great People of the Universe. 
 
 My name is Shakem Merkabro and I AM building a Starship. The Starship is for cyberspace, the meta verse, the universe or any verse. If/When this becomes a physical starship the blockchain will show us it all started right here with you reading this.
